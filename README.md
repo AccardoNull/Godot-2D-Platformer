@@ -1,2 +1,2 @@
 # Godot-Game-Practice
-A simple 2D platformer demo made in Godot engine.
+A simple coin collecting 2D platformer made in Godot engine.
