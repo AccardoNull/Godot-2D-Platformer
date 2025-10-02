@@ -1,2 +1,2 @@
 # Godot-Game-Practice
-Game development practice in Godot engine.
+A simple 2D platformer demo made in Godot engine.
